@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="产品图片暂缺">
+  <rect width="800" height="600" fill="#f4f7fa"/>
+  <rect x="24" y="24" width="752" height="552" fill="none" stroke="#dde5ec" stroke-width="2" stroke-dasharray="10 8"/>
+  <g fill="none" stroke="#b9c6d3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="400" cy="262" r="52"/>
+    <path d="M400 226v72M364 262h72"/>
+  </g>
+  <text x="400" y="368" text-anchor="middle" fill="#8fa0b0" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="22">产品图片暂缺</text>
+</svg>
